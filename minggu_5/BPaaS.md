@@ -1,0 +1,44 @@
+<br>Business Process as a Service (BPaaS) delivered from the cloud<br/>
+<br>Setiap proses bisnis (misalnya, penggajian, pencetakan, e-niaga) dikirim sebagai layanan melalui Internet dan dapat diakses oleh satu atau beberapa antarmuka yang diaktifkan web (PC, perangkat pintar, dan telepon) dapat dianggap sebagai Proses Bisnis sebagai Layanan (BPaaS) . Layanan iklan seperti Google Adsense, IBM Blueworks Live untuk manajemen proses bisnis adalah beberapa dari beberapa layanan yang tersedia untuk umum, sedangkan ada sejumlah layanan lain yang saat ini departemen TI berikan kepada penggunanya di dalam firewall atau ke mitra tepercaya.<br/>
+
+<br>Ketika layanan ini dikirim dari cloud, itu mengubah dinamika ekonomi. Khususnya dari perspektif pengguna, seseorang bergerak menjauh dari diskusi pengeluaran modal (CAPEX) ke diskusi pengeluaran operasional (OPEX) selama perhitungan kasus bisnis. Ini di dunia TI adalah pergeseran paradigma, pergeseran menuju komputasi utilitas, di mana Anda membayar bahkan ketika Anda berada di dalam dinding perusahaan dan rantai nilai yang diperluas (pergeseran yang sekarang kita gunakan di dunia konsumen dengan banyak layanan yang tersedia melalui aplikasi di smartphone yang kami gunakan untuk mengelola banyak proses bisnis atau keluarga).<br/>
+
+<br>Ketika seseorang melihat BPaaS dalam Arsitektur Referensi Platform Manajemen Cloud Umum (Gambar 1) yang diusulkan oleh IBM untuk Grup Terbuka, BPaaS duduk di atas perangkat lunak sebagai lapisan layanan (SaaS) di atas. Menurut pendapat saya BPaaS adalah tentang mengkonsumsi layanan secara cerdas dari lapisan SaaS, PaaS, dan IaaS.<br>
+<br>Seiring dengan manfaat ekonomi logis dan kemudahan penggunaan pengiriman BPaaS dari cloud, manfaat utama ke depan yang saya lihat adalah peluang yang harus diambil oleh calon pengguna untuk uji coba pepatah, yaitu, pengguna dapat mencoba berbagai layanan sebelum berintegrasi dalam proses bisnis mereka yang lebih besar atau mengganti layanan yang ada dengan cepat. Konsep-konsep seperti desktop virtual membuat layanan ini dapat dikonsumsi dari perangkat apa pun. Ini adalah perubahan paradigma lengkap yang harus dijalani oleh semua orang termasuk departemen TI internal, bukan lagi departemen TI yang menciptakan dan mencari sumber layanan. Layanan sekarang tersedia di pasar tempat eksekutif lini bisnis dapat mencari, digunakan untuk pengujian, dan kemudian memutuskan untuk membeli atau terus mencari sesuatu yang lain. Seperti yang digambarkan dalam Gambar 2, layanan yang dikonsumsi oleh proses bisnis dapat bersumber dari cloud privat internal, cloud mitra, atau cloud publik. Atau, BPaaS melalui model pengiriman cloud menciptakan pasar yang sepenuhnya berbeda untuk perusahaan dan untuk organisasi CIO di mana model pengiriman yang ada tidak memfasilitasi akses ke pasar ini. Saya kira, mereka harus bertanya pada diri sendiri pertanyaan-pertanyaan berikut:<br/>
+
+<br>Apa atribut kunci dari strategi dan model bisnis penyedia cloud yang menang?<br/>
+<br>Bagaimana bermitra di seluruh ekosistem dapat mempercepat kesuksesan saya?<br/>
+<br>Apa implikasinya jika saya tidak bertindak sekarang?<br/>
+
+<br>Mari kita lihat contoh tawaran BPaaS dari IBM, yaitu IBM Blueworks Live. Baik Anda terlibat dalam proses sederhana yang saat ini dijalankan melalui email, mengelola tim kecil dan ingin berjalan lebih efisien, atau terlibat dalam program BPM korporat seputar pemodelan proses dan pemerintahan, Blueworks Live adalah penawaran yang membawa semua orang ke dalam proses percakapan, sehingga mengarah pada peningkatan visibilitas dan hasil yang lebih konsisten. Berikut ini adalah fitur utama yang disediakan Blueworks Live di sekitar BPM perusahaan.<br/>
+<br>Discovery and documentation<br/>
+<br>The first step in any process improvement effort is getting a clear picture of where you are today. With Blueworks Live, your whole team can engage collaboratively in the process discovery exercise while your process experts can use complex BPMN to document the most intricate aspects of your processes.
+More Details »  |  See How »<br/>
+
+<br>Centralized collaboration<br/>
+<br>Social networking meets BPM in Blueworks Live. Built-in communication features, such as instant messaging, live news feeds, and the ability to leave comments enable you to immediately react to process changes that affect your projects. By consolidating all your organization’s process knowledge in one place, you can ensure that the right people are informed of the right changes at the right time. See Figure 3.<br/>
+<br>Komunitas pribadi: Halaman login utama Blueworks Live segera memberi tahu Anda perubahan apa yang terjadi pada proses yang melibatkan Anda secara langsung atau tidak langsung. Pelajari proses baru mana yang telah "dibagikan" atau dipublikasikan, proses mana yang telah diedit, dan siapa yang telah mengomentari mana proses. Pilih untuk "mengikuti" pekerjaan dan proses yang melibatkan Anda. Pembaruan status real-time meningkatkan visibilitas dan akuntabilitas sambil menjaga semua orang terlibat dengan pekerjaan mereka.<br/>
+
+<br>Komunitas publik: Gunakan komunitas pakar bawaan untuk mendapatkan industri, peningkatan proses, dan pengetahuan BPM. Aliran Twitter yang dikuratori adalah bagian dari tampilan Komunitas untuk memberi Anda blog, kertas putih, dan konten lain yang relevan yang dapat membantu Anda meningkatkan operasi bisnis Anda. Perpustakaan menampung berbagai materi seperti tutorial, laporan analis, dan video.<br/>
+
+<br>Kontrol akses: Blueworks Live menawarkan lisensi Editor dan Kontributor. Sebagai editor, Anda dapat membuat, memodifikasi, dan berbagi Cetak Biru Proses. Kontributor dapat melihat dan mengomentari proses tetapi tidak dapat memodifikasi atau membuatnya. Baik editor dan kontributor dapat mengonfigurasi dan menjalankan Aplikasi Proses dengan Blueworks Live. Blueworks Live memungkinkan administrator akun untuk mengatur tingkat akses, editor, atau kontributor, untuk setiap proses individu. Administrasi ditangani melalui antarmuka intuitif yang sederhana. Anda dapat mengalokasikan lisensi hanya dengan mengetikkan alamat email pengguna dan mengundang mereka untuk bergabung. Jika pada suatu saat, lisensi tidak digunakan, Anda dapat mengalokasikannya kembali untuk pengguna baru. Untuk mendapatkan kursi baru, Anda dapat memesannya secara online dengan memberikan informasi kartu kredit Anda dan memilih jumlah lisensi Editor dan Kontributor yang Anda butuhkan.<br/>
+<br>Mengotomatiskan proses sederhana<br/>
+<br>Setiap hari Anda menghabiskan banyak waktu mengerjakan hal yang salah pada waktu yang salah karena orang yang salah berada di utas email persetujuan atau karena tenggat waktu hilang di bagian bawah rantai email. Dengan Blueworks Live, mengonfigurasi Aplikasi Proses berulang yang memberi Anda kembali semua jam yang terbuang adalah hampir 90 detik dan beberapa formulir formulir jauhnya. Dengan menambahkan lapisan tata kelola ke jenis proses ad-hoc ini, organisasi Anda akan mendapatkan kembali kendali tidak hanya atas bisnis tetapi juga atas kotak masuknya.
+Lihat bagaimana "<br/>
+
+<br>IBM Blueworks Live memiliki satu contoh di mana seluruh organisasi dapat berkolaborasi dan membuat keputusan menggunakan layanan bisnis pihak ketiga. Blueworks Live menyediakan uji coba gratis 30 hari, setelah itu Anda memutuskan apakah akan berlangganan layanan ini.<br/>
+
+<br>IBM Blueworks Live hanyalah salah satu contoh dan saya rasa sangat berharga untuk usaha kecil dan menengah (UKM) yang tidak akan dapat mengkonsumsi atau membeli alat manajemen proses bisnis yang kuat sendiri.<br/>
+
+<br>Saya pikir opsi untuk menguji drive, bayar per penggunaan, dan tentu saja, berlangganan dan tidak membeli (sehingga Anda dapat dengan mudah mengubah layanan saat persyaratan bisnis Anda berubah) adalah proposisi nilai yang baik untuk semua jenis perusahaan (termasuk yang besar ). Kita semua tahu banyak contoh perusahaan yang terjebak dengan aplikasi dan alat perusahaan mereka karena beberapa asumsi yang salah, pengambilan keputusan yang picik selama pemilihan aplikasi atau proses implementasi.<br/>
+
+<br>Ketika seseorang melihat pengumuman terbaru IBM mengenai penawaran SaaS, orang melihat bahwa IBM saat ini menawarkan sejumlah produk perangkat lunak di bawah portofolio SaaS yang dapat diintegrasikan untuk membuat skenario BPaaS yang sangat berbeda dan dapat disesuaikan. Proses bisnis perusahaan penting berikut saat ini dicakup oleh tawaran SaaS IBM:<br/>
+
+<br>Kolaborasi sosial
+Manajemen Proses Bisnis
+Analisis web
+Manajemen pemasaran perusahaan
+Integrasi bisnis ke bisnis
+Manajemen rantai persediaan
+Tata kelola keamanan, manajemen risiko dan kepatuhan
+Manajemen layanan bisnis<br/>
